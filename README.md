@@ -1,2 +1,3 @@
-# Photos
-Gopi photos in various events
+![My Photos](./assets/images/banner.png)
+
+> 😃 My photos and videos from various events in my life...
